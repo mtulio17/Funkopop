@@ -1,0 +1,68 @@
+[
+    {
+        "codigo": 1020,
+        "nombre": "Superman",
+        "precio": 1500,
+        "imagen": "./img/productos/superman.png"
+    },
+    {
+        "codigo": 1021,
+        "nombre": "Hulk",
+        "precio": 1450,
+        "imagen": "/img/productos/hulk.png"
+    },
+    {
+        "codigo": 1022,
+        "nombre": "Joker",
+        "precio": 1800,
+        "imagen": "img/productos/joker.png"
+    },
+    {
+        "codigo": 1023,
+        "nombre": "Stormtropper",
+        "precio": 2000,
+        "imagen": "./img/productos/stormtropper.png"
+    },
+    {
+        "codigo": 1024,
+        "nombre": "Thanos",
+        "precio": 1500,
+        "imagen": "/img/productos/thanos.png"
+    },
+    {
+        "codigo": 1025,
+        "nombre": "Capitan America",
+        "precio": 1700,
+        "imagen": "./img/productos/capitan-america.png"
+    },
+    {
+        "codigo": 1026,
+        "nombre": "Mandalorian",
+        "precio": 2000,
+        "imagen": "./img/productos/mandalorian.png"
+    },
+    {
+        "codigo": 1027,
+        "nombre": "Rocket",
+        "precio": 1650,
+        "imagen": "./img/productos/rocket.png"
+    },
+    {
+        "codigo": 1028,
+        "nombre": "Spiderman",
+        "precio": 1700,
+        "imagen": "./img/productos/spiderman.png"
+    },
+    {
+        "codigo": 1029,
+        "nombre": "Venom",
+        "precio": 1500,
+        "imagen": "./img/productos/venom.png"
+    },
+    {
+        "codigo": 1030,
+        "nombre": "Tony Stark",
+        "precio": 1800,
+        "imagen": "./img/productos/tony.png"
+    }
+]
