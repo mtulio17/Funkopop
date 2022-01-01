@@ -57,7 +57,7 @@ $.getJSON('js/funkos.json', (respuesta) => {
              <td>${funko.precio}</td>
              <td>${funko.imagen}</td>
              <td>
-                  <button type="button" class="btn btn-danger" onclick="eliminarFunko(this)" id="${funko.codigo}">Eliminar</button>
+                  <button type="button" class="btn btn-danger" onclick=${eliminarFunko(this)} id="${funko.codigo}">Eliminar</button>
              </td>
          </tr>
             `
